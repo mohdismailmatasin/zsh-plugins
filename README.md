@@ -6,14 +6,14 @@
 [![ZSH Version](https://img.shields.io/badge/ZSH-5.0%2B-green.svg)](https://www.zsh.org/)
 [![Performance](https://img.shields.io/badge/Performance-Optimized-orange.svg)](#-performance)
 
-## ✨ Features
+## Features
 
-### 🎯 Core Components
+### Core Components
 
-- **🔍 Autosuggestions** - Fish-like command suggestions based on history
-- **🎨 Syntax Highlighting** - Real-time command syntax highlighting
-- **📝 Autocomplete** - Enhanced tab completion with smart matching
-- **🔄 History Substring Search** - Navigate command history with partial matches
+- **Autosuggestions** - Fish-like command suggestions based on history
+- **Syntax Highlighting** - Real-time command syntax highlighting
+- **Autocomplete** - Enhanced tab completion with smart matching
+- **History Substring Search** - Navigate command history with partial matches
 
 ### ⚡ Performance Features
 
@@ -23,7 +23,7 @@
 - **System Detection** - Automatic performance optimization based on system resources
 - **Minimal Overhead** - Optimized for fast startup times
 
-### 🛠️ Advanced Features
+### Advanced Features
 
 - **Progress Indicators** - Visual feedback during plugin loading
 - **Debug Mode** - Comprehensive troubleshooting capabilities
@@ -31,7 +31,7 @@
 - **Performance Monitoring** - Real-time load time tracking
 - **Memory Optimization** - Efficient resource utilization
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -75,7 +75,7 @@ mv ~/.config/zsh-plugins-main ~/.config/zsh-plugins
 echo 'source ~/.config/zsh-plugins/zsh-plugins.plugin.zsh' >> ~/.zshrc
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 ### Basic Configuration
 
@@ -123,7 +123,7 @@ For detailed configuration options, see [`config-enhanced.zsh`](config-enhanced.
 - Performance tuning
 - Memory optimization
 
-## 📊 Performance
+## Performance
 
 ### Benchmarks
 
@@ -149,7 +149,7 @@ Run the included performance test:
 ./test-memory.zsh
 ```
 
-## 🔧 Components
+## Components
 
 ### 1. Autosuggestions
 
@@ -175,7 +175,7 @@ Run the included performance test:
 - **Features**: Navigate history with Up/Down arrows using substring matching
 - **Keybindings**: Customizable key bindings
 
-## 🎮 Usage
+## Usage
 
 ### Key Bindings
 
@@ -207,7 +207,7 @@ zsh-plugins-debug
 zsh-plugins-cache-clear
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -242,9 +242,9 @@ export ZSH_PLUGINS_SHOW_PROGRESS=true
 source ~/.zshrc
 ```
 
-## 📁 Project Structure
+## Project Structure
 
-```
+```zsh
 zsh-plugins/
 ├── zsh-plugins.plugin.zsh      # Main plugin file
 ├── config-enhanced.zsh         # Advanced configuration examples
@@ -269,7 +269,7 @@ zsh-plugins/
     └── docs/
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature-name`
@@ -287,11 +287,11 @@ zsh-plugins/
 - Maintain performance benchmarks
 - Update README for new features
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project combines and enhances several excellent ZSH plugins:
 
@@ -300,7 +300,7 @@ This project combines and enhances several excellent ZSH plugins:
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) by Marlon Richert
 - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) by ZSH Users
 
-## 📈 Roadmap
+## Roadmap
 
 - [ ] Plugin manager integration (Antigen, Antibody, Zinit)
 - [ ] Theme compatibility testing
@@ -309,11 +309,11 @@ This project combines and enhances several excellent ZSH plugins:
 - [ ] AI-powered suggestions
 - [ ] Custom completion generators
 
-## 📞 Support
+## Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/mohdismailmatasin/zsh-plugins/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/mohdismailmatasin/zsh-plugins/discussions)
-- 📧 **Email**: <mohdismailmatasin@gmail.com>
+- **Issues**: [GitHub Issues](https://github.com/mohdismailmatasin/zsh-plugins/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mohdismailmatasin/zsh-plugins/discussions)
+- **Email**: <mohdismailmatasin@gmail.com>
 
 ---
 
