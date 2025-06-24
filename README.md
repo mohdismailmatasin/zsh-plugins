@@ -1,4 +1,4 @@
-# ZSH Plugins v2.0
+# ZSH Plugins
 
 > A modern, high-performance collection of essential ZSH enhancements combining the best features from popular ZSH plugins into one optimized package.
 
