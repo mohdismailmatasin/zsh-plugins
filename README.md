@@ -317,10 +317,10 @@ This project combines and enhances several excellent ZSH plugins:
 
 ---
 
-<div align="center">
+<p align="center">
 
 **[⬆ Back to Top](#zsh-plugins-v20)**
 
 Made with ❤️ for the ZSH community
 
-</div>
+</p>
